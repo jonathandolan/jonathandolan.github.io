@@ -5,11 +5,11 @@
 </head>
 <body>
 
-<h2><a href="https://www.google.com">Path searches</a></h2>
+<h2><a href="jonathandolan.github.io/code/FindPathV1">Path searches<a></h2>
 	<p>This project was part of my introduction to Artifical Intelligence class. The assignment was to make a program that solves mazes with search algorithms, specifically depth first, breadth first, uniform cost, and A* search algorithms. This was my first expereince with the Python programming language, besides a short tutorial. I was very impressed with Python's duck typing system, although it took a lot of getting used to after having only worked with statically typed languages like Java or C/C++.</p>
 	<p>I am always amazed and fascinated with the elegence of beauty of certain algorithms, and that was definitely the case with this assignment. I was especially amazed with the A* algorithm, and how such a small amount of code can solve a problem so efficiently, and that the problem can be any size and it still works without any changes to the algorithm.</p>
 
-<h2>Flavor pairing</h2>
+<h2><a hrev="github.com/jonathandolan/flavorPairing">Flavor pairing</a></h2>
 	<p>This assignment was my final project for my class on databases. I worked with Chris Fowles on this project, who did most of the UI work, while I wrote the backend code. The goal of this project was to create a database that holds pairs of ingredients that go well together, and a user interface to communicate with the database. We implemented it with Django, which is an MVC framework for Python.</p>
 	<p>In this project, I got to know Python better, and learned about the Django framework. I have had other classes that introduced web development technologies such as HTML, CSS, PHP, and Javascript, but this was my first real introduction of how to make modern, dynamic web pages. I was especially impressed with Django's models, and how you can use very high level commands to create objects, which are then put in the database for you. Django's models also make reading from the database easy, as you can think of the database elements as objects, so you don't have to write an SQL wrapper.</p>
 
