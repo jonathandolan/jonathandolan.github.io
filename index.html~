@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>Path searches</h2>
+<h2><a href="https://www.google.com">Path searches</a></h2>
 	<p>This project was part of my introduction to Artifical Intelligence class. The assignment was to make a program that solves mazes with search algorithms, specifically depth first, breadth first, uniform cost, and A* search algorithms. This was my first expereince with the Python programming language, besides a short tutorial. I was very impressed with Python's duck typing system, although it took a lot of getting used to after having only worked with statically typed languages like Java or C/C++.</p>
 	<p>I am always amazed and fascinated with the elegence of beauty of certain algorithms, and that was definitely the case with this assignment. I was especially amazed with the A* algorithm, and how such a small amount of code can solve a problem so efficiently, and that the problem can be any size and it still works without any changes to the algorithm.</p>
 
