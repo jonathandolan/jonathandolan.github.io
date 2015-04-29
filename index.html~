@@ -2,8 +2,14 @@
 <html>
 <head>
 <title>Jonathan Dolan</title>
+<link rel="stylesheet" href="basic.css" type="text/css" media="screen" charset="utf-8">
 </head>
 <body>
+
+<p>This site is a portfolio of my time at Westminster College, where I earned a Bachelor's of Science degree in Computer Information Systems.
+</p>
+
+<h1>Portfolio</h1>
 
 <h2><a href="/code/FindPathV1">Path searches<a></h2>
 	<p>This project was part of my introduction to Artifical Intelligence class. The assignment was to make a program that solves mazes with search algorithms, specifically depth first, breadth first, uniform cost, and A* search algorithms. This was my first expereince with the Python programming language, besides a short tutorial. I was very impressed with Python's duck typing system, although it took a lot of getting used to after having only worked with statically typed languages like Java or C/C++.</p>
